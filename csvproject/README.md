@@ -21,7 +21,7 @@
 
 
 ## Getting Started
-Download or clone this code on your local machine. Instal Maven if you don't have it's.
+Download or clone this code on your local machine. Instal Maven if you don't have it's. Project settings is setup for java 1.8+
 
 You have 2 posibility to run application:
 
